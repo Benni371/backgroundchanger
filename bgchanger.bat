@@ -1,0 +1,1 @@
+f:\Coding\BackgroundChanger\.venv\Scripts\python.exe F:\Coding\BackgroundChanger\bgchanger.py
